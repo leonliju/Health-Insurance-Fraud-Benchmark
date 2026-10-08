@@ -1,0 +1,17 @@
+package_code,package_name,diagnosis_code,specialty,reference_package_rate,sex,los_mean,repeat_mean
+PKG-01,Medical management: diabetes complication,E11,General Medicine,9000,any,4,0
+PKG-02,Coronary angioplasty (PTCA),I21,Cardiology,85000,any,3,0
+PKG-03,Coronary angiography (day care),I25,Cardiology,12000,any,1,0
+PKG-04,Medical management: pneumonia,J18,General Medicine,8000,any,5,0
+PKG-05,Medical management: tuberculosis,A15,General Medicine,7000,any,6,0
+PKG-06,Medical management: dengue,A91,General Medicine,6000,any,4,0
+PKG-07,Caesarean section,O82,Obstetrics,14000,F,4,0
+PKG-08,Normal delivery,O80,Obstetrics,6000,F,2,0
+PKG-09,Appendectomy,K35,General Surgery,20000,any,3,0
+PKG-10,Laparoscopic cholecystectomy,K80,General Surgery,28000,any,3,0
+PKG-11,Ureteroscopic stone removal,N20,Urology,22000,any,2,0
+PKG-12,Haemodialysis session,N18,Nephrology,1800,any,1,5
+PKG-13,Hip fracture fixation,S72,Orthopaedics,55000,any,7,0
+PKG-14,"Cataract surgery (phaco, day care)",H25,Ophthalmology,8000,any,1,0
+PKG-15,Transurethral resection of prostate,N40,Urology,30000,M,3,0
+PKG-16,Chemotherapy cycle (breast cancer),C50,Oncology,25000,F,2,3
